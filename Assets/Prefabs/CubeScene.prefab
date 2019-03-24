@@ -54,7 +54,7 @@ MonoBehaviour:
   currentPreset: 
   presetList: []
   state: 4
-  startTime: 2
+  startTime: 1
   endTime: 1
   alwaysUpdate: 1
   cube: {fileID: 5230707992123832300}
